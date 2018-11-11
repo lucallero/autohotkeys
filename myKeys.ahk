@@ -13,18 +13,10 @@ Send, #s
 return
 
 
-;https://www.autohotkey.com/docs/scripts/EasyWindowDrag_(KDE).htm
+;Credits to: https://www.autohotkey.com/docs/scripts/EasyWindowDrag_(KDE).htm
 ; Easy Window Dragging -- KDE style (requires XP/2k/NT) -- by Jonny
-; This script makes it much easier to move or resize a window: 1) Hold down
-; the ALT key and LEFT-click anywhere inside a window to drag it to a new
-; location; 2) Hold down ALT and RIGHT-click-drag anywhere inside a window
-; to easily resize it; 3) Press ALT twice, but before releasing it the second
-; time, left-click to minimize the window under the mouse cursor, right-click
-; to maximize it, or middle-click to close it.
-
-; This script was inspired by and built on many like it
-; in the forum. Thanks go out to ck, thinkstorm, Chris,
-; and aurelian for a job well done.
+; Hold down ALT and RIGHT-click-drag anywhere inside a window to easily resize it; 
+; I removed other original features as I don't need them.
 
 If (A_AhkVersion < "1.0.39.00")
 {
