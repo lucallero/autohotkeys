@@ -11,5 +11,5 @@ AutoHotkey: https://www.autohotkey.com/
 Credits:
 
 https://github.com/Lexikos/AutoHotkey_L/
-https://www.autohotkey.com/docs/scripts/EasyWindowDrag_(KDE).htm
 
+https://www.autohotkey.com/docs/scripts/EasyWindowDrag_(KDE).htm
