@@ -8,4 +8,8 @@ Windows shortcuts: https://support.microsoft.com/en-us/help/12445/windows-keyboa
 
 AutoHotkey: https://www.autohotkey.com/
 
-On github: https://github.com/Lexikos/AutoHotkey_L/
+Credits:
+
+https://github.com/Lexikos/AutoHotkey_L/
+https://www.autohotkey.com/docs/scripts/EasyWindowDrag_(KDE).htm
+
